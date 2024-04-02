@@ -1,3 +1,6 @@
-### Hi! My name is Fayzullo 
-<img 
-src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGxzYTh2OWJnZTluOGxxN3E1cHM1NHJlaWQ3dXcycTh3czN0ZzM0NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l1IB22SuYeEMMPTguL/giphy.gif" width="30px">
+<div>
+<h4 display="inline" >Hi! My name is Fayzullo</h4>
+<img display="inline"
+src="https://media3.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.webp?cid=790b761196x1xqpbqi2x7qrac5jj4onyngfuxqxsjnvpcs8p&ep=v1_gifs_search&rid=giphy.webp&ct=g" width="30px">
+
+</div>
