@@ -2,22 +2,16 @@
 	<img src="https://media3.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.webp?cid=790b761196x1xqpbqi2x7qrac5jj4onyngfuxqxsjnvpcs8p&ep=v1_gifs_search&rid=giphy.webp&ct=g" width="40px">
 	<img src="https://readme-typing-svg.demolab.com/?lines=Hi, I'm Fayzullo Mamajonov!;Welcome+to+my+GitHub+Profile!">
 </h1>
-
-<h1 align="center">
-	<a href="https://github.com/uz-java" target="_self">
-		<img alt="GIF" src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif">
-	</a>
-</h1>
 <br>
 
 ### 📖 About me
 
 <hr>
 <pre>
-💻 I am Java backend developer.
+💻 I am Python backend developer.
 📚 I have a Bachelors in Computer Engineering from Tashkent University of Information Technologies.
 📝 I have a strong interest in Data Science and Artificial Intelligence.
-🌟 Main languages: Java, C++, Phyton
+🌟 Main languages:Python, C++
 </pre>
 <hr>
 
