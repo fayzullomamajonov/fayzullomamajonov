@@ -1,7 +1,6 @@
-### <img src="https://media3.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.webp?cid=790b761196x1xqpbqi2x7qrac5jj4onyngfuxqxsjnvpcs8p&ep=v1_gifs_search&rid=giphy.webp&ct=g" width="40px">
-
 <h1 align="center">
-	<img src="https://readme-typing-svg.demolab.com/?lines=Hi, I'm Dilshod Ganiboyev!;Welcome+to+my+GitHub+Profile!">
+	<img src="https://media3.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.webp?cid=790b761196x1xqpbqi2x7qrac5jj4onyngfuxqxsjnvpcs8p&ep=v1_gifs_search&rid=giphy.webp&ct=g" width="40px">
+	<img src="https://readme-typing-svg.demolab.com/?lines=Hi, I'm Fayzullo Mamajonov!;Welcome+to+my+GitHub+Profile!">
 </h1>
 
 <h1 align="center">
