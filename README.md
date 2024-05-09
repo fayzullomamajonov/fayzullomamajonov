@@ -19,7 +19,7 @@
 <div align="center">
 
 [![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Dilshod_1908)
-[![image](https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/SRP_Founder)
+[![image](https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white)]([https://t.me/SRP_Founder](https://t.me/mamajonov_fayzullo))
 	
 </div>
 
