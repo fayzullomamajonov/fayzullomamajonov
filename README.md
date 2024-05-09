@@ -15,24 +15,10 @@
 </pre>
 <hr>
 
-<h3 align="center">Connect with me:</h3>
-<div align="center">
-
-<link href='https://www.linkedin.com/in/fayzullo-mamajonov-1195772b7/>' rel='Linkdin'>
-badge&logo=telegram&logoColor=white)]([https://t.me/mamajonov_fayzullo])
-	
-</div>
-
 
 ## 🛠️ My Skills
 
 ### 👉 Programming languages
-
-<a href="https://www.java.com/en/">
-    <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  </a>
-</p>
-
 
   <a href="https://isocpp.org/">
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
@@ -41,7 +27,7 @@ badge&logo=telegram&logoColor=white)]([https://t.me/mamajonov_fayzullo])
 
  
   <a href="https://isocpp.org/">
-    <img src="https://img.shields.io/badge/python-3.6-blue.svg">
+    <img src="https://img.shields.io/badge/python-3.7-blue.svg">
   </a>
 &emsp;
 
